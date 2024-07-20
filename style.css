@@ -1,0 +1,31 @@
+/*alignment of the title*/
+.title{
+  text-align:center;
+  margin-top: 50px;
+}
+/*form and alignment of the searchbar*/
+.searchbar {
+  width: 300px;
+  margin: auto;
+  margin-top: 80px;
+ }
+/* alignment of the random button*/
+.rdmbtn {
+  margin-top: 30px;
+}
+/*avoid links to underline*/
+a:hover {
+  text-decoration: none;
+}
+/*result zone*/
+#bet {
+  
+  margin-top:20px;
+  text-align: justify;
+}
+
+#sign {
+  width: 100%;
+  bottom:0px;
+  text-align: center;
+  }
